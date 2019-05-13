@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[364],{1609:function(n,e,r){"use strict";r.r(e);var t=r(354),o=r(364),i=r(367);e.default=Object(o.connect)((n,e)=>({organization:Object(i.getOrganizationByKey)(n,e.params.organizationKey),currentUser:Object(i.getCurrentUser)(n)}))(class extends t.PureComponent{render(){return t.cloneElement(this.props.children,{location:this.props.location,currentUser:this.props.currentUser,organization:this.props.organization})}})}}]);
+//# sourceMappingURL=364.m.d50410df.chunk.js.map
